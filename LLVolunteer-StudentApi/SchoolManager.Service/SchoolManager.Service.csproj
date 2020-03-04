@@ -1,0 +1,17 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="HtmlAgilityPack" Version="1.11.3" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\SchoolInfoManager.MQ\SchoolInfoManager.MQ.Publish.csproj" />
+    <ProjectReference Include="..\SchoolManager.Common\SchoolManager.Common.csproj" />
+    <ProjectReference Include="..\SchoolManager.Core\SchoolManager.Core.csproj" />
+  </ItemGroup>
+
+</Project>

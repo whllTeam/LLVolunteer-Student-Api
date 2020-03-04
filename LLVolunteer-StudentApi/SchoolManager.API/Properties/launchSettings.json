@@ -1,0 +1,11 @@
+﻿{
+  "profiles": {
+    "SchoolManager.API": {
+      "commandName": "Project",
+      "applicationUrl": "http://localhost:5019",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      }
+    }
+  }
+}

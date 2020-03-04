@@ -3,3 +3,16 @@
 ################################################################################
 
 /.vs
+/LLVolunteer-StudentApi/.vs/LLVolunteer-StudentApi/v16
+
+/.vs
+/LLVolunteer-StudentApi/.vs/EsbPsychology/v16
+/LLVolunteer-StudentApi/*/bin
+/LLVolunteer-StudentApi/*/obj
+/LLVolunteer-StudentApi/.vs
+/LLVolunteer-StudentApi/*/*/obj
+/LLVolunteer-StudentApi/*/*/bin
+/LLVolunteer-StudentApi/*/*/*/obj
+/LLVolunteer-StudentApi/*/*/*/bin
+/LLVolunteer-StudentApi/SchoolManager.API/log
+/LLVolunteer-StudentApi/SchoolManager.Infrastructure/Migrations
